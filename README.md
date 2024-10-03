@@ -192,7 +192,7 @@ plt.show()
 
 ### Results
 
-![Optimal Data Analyst Skills](3_Project\images\optimal_data_analyst_skills.png)
+![Optimal Data Analyst Skills](3_Project/images/optimal_data_analyst_skills.png)
 
 ### Insights
 
@@ -224,7 +224,7 @@ plt.show()
 
 ### Results
 
-![Most Optimal Skills for Data Analysts in the US with Coloring by Technology](3_Project\images\optimal_data_analyst_skills_by_technology.png)
+![Most Optimal Skills for Data Analysts in the US with Coloring by Technology](3_Project/images/optimal_data_analyst_skills_by_technology.png)
 
 #### Insights:
 
