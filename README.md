@@ -136,7 +136,7 @@ plt.show()
 
 ### Results
 
-![Salary Distribution of Data Jobs](3_Project\images\salary_distribution_of_data_jobs.png)
+![Salary Distribution of Data Jobs](3_Project/images/salary_distribution_of_data_jobs.png)
 *Box plot visualizing the salary distributions for the top 6 data job titles.*
 
 ### Insights
@@ -165,7 +165,7 @@ plt.show()
 
 ### Results
 
-![Highest Paid Skills and Most In-demand Skills](3_Project\images\highest_paid_and_in_demand_skills.png)
+![Highest Paid Skills and Most In-demand Skills](3_Project/images/highest_paid_and_in_demand_skills.png)
  *Two separate bar graphs visualizing the highest paid skills and most in-demand skills for data analysts in the US.*
 
  ### Insights
